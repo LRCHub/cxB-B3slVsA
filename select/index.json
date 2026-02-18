@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Aria",
+  "base_artist": "アイナ・ジ・エンド",
+  "createdAt": "2026-02-18T23:03:05.374921Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bachianas Brasileiras No.5 Aria (Cantilena)",
+      "artist": "Hayley Westenra",
+      "has_synced": false,
+      "path": "select/01_Bachianas_Brasileiras_No.5_Aria_(Cantilena)_Hayley_Westenra.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Aria",
+      "artist": "Halls",
+      "has_synced": false,
+      "path": "select/02_Aria_Halls.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bathory Aria",
+      "artist": "Cradle of Filth",
+      "has_synced": false,
+      "path": "select/03_Bathory_Aria_Cradle_of_Filth.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bathory Aria",
+      "artist": "Cradle of Filth",
+      "has_synced": true,
+      "path": "select/04_Bathory_Aria_Cradle_of_Filth.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bathory Aria",
+      "artist": "Cradle of Filth",
+      "has_synced": true,
+      "path": "select/05_Bathory_Aria_Cradle_of_Filth.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Aria",
+      "artist": "Gianna Nannini",
+      "has_synced": true,
+      "path": "select/06_Aria_Gianna_Nannini.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Aria",
+      "artist": "Matia Bazar",
+      "has_synced": false,
+      "path": "select/07_Aria_Matia_Bazar.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Aria",
+      "artist": "Negrita",
+      "has_synced": true,
+      "path": "select/08_Aria_Negrita.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Aria & Cielo",
+      "artist": "Umberto Tozzi",
+      "has_synced": true,
+      "path": "select/09_Aria_&_Cielo_Umberto_Tozzi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Aria - Album Perle",
+      "artist": "Gianna Nannini",
+      "has_synced": true,
+      "path": "select/10_Aria_-_Album_Perle_Gianna_Nannini.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Aria",
+      "artist": "Umberto Tozzi",
+      "has_synced": false,
+      "path": "select/11_Aria_Umberto_Tozzi.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Aria (Bonus Track)",
+      "artist": "Umberto Tozzi",
+      "has_synced": false,
+      "path": "select/12_Aria_(Bonus_Track)_Umberto_Tozzi.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Aria (Remastered)",
+      "artist": "Pino Daniele",
+      "has_synced": true,
+      "path": "select/13_Aria_(Remastered)_Pino_Daniele.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Aria di lei",
+      "artist": "Umberto Tozzi",
+      "has_synced": true,
+      "path": "select/14_Aria_di_lei_Umberto_Tozzi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Aria",
+      "artist": "アイナ・ジ・エンド",
+      "has_synced": false,
+      "path": "select/pl_01_Aria_アイナ・ジ・エンド.txt"
+    }
+  ]
+}
